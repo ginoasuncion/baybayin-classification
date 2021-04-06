@@ -1,1 +1,1 @@
-# classification-of-baybayin-handwritten-images
+# Classification of Baybayin Handwritten Images using a Convolutional Neural Network
